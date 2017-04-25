@@ -1,6 +1,6 @@
-# maakfestival_2017
+# maakfestival 2017
 
-Activiteitem van De Jonge Onderzoekers (DJO) Groningen en vrienden op het [Maakfestival](https://www.maakfestival.nl)
+Activiteiten van De Jonge Onderzoekers, DIYbio en Hive5 op het [Maakfestival](https://www.maakfestival.nl)
 
 ## Agenda
 
@@ -19,7 +19,7 @@ Afkorting|Aanduiding
 DJO|De Jonge Onderzoekers Groningen, [DJO website](https://www.djog.nl)
 Dojo|Donderdagavond programmeercursus bij De Jonge Onderzoekers, [Dojo website](https://github.com/richelbilderbeek/Dojo)
 Arduino|Vrijdagavond Arduino cursus bij De Jonge Onderzoekers, [Arduino website](https://github.com/richelbilderbeek/ArduinoCourse)
-N&T|Vrijdagavond natuur & techniek cursus bij De Jonge Onderzoekers, [Arduino website](https://github.com/richelbilderbeek/ArduinoCourse)
+N&T|Vrijdagavond natuur & techniek cursus bij De Jonge Onderzoekers, [N & T website](https://github.com/dpstruwe/N-T-cursus-DJOG)
 DIYbio|Groningse biologie makerspace, [DIYbio website](http://www.diybiogroningen.org/)
 Hive5|Groningse hackerspace, [Hive5 website](hive5.nl/)
 
