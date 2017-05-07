@@ -42,24 +42,39 @@ Hive5|?Show and tell
 
 ## Publiciteit
 
+### DE JONGE ONDERZOEKERS | Cursus Arduino
+
+Van [http://maakfestival.nl/programma/de-jonge-onderzoekers-cursus-arduino](http://maakfestival.nl/programma/de-jonge-onderzoekers-cursus-arduino):
+
+Arduino is een populair computerplatform 
+dat je kunt programmeren om input van schakelaars, 
+lichtsensoren of bewegingsmeters om te zetten in 
+output op een motor, lampje, pompje of beeldscherm. 
+De mogelijkheden zijn eindeloos! 
+Bij De Jonge Onderzoekers is al jaren een cursus Arduino voor en door leerlingen van 8 tot 18 jaar. 
+Schuif aan en leer de eerste stappen Arduino programmeren.
+
+### DE JONGE ONDERZOEKERS | Leren programmeren
+
+Van [http://maakfestival.nl/programma/de-jonge-onderzoekers-leer-programmeren](http://maakfestival.nl/programma/de-jonge-onderzoekers-leer-programmeren)
+
+Leer programmeren bij De Jonge Onderzoekers! Leerlingen van 8 tot 18 jaar kunnen hun eerste stappen zetten in Scratch of Processing.
+
 ### DIY-DNA | Haal DNA uit een aardbei
 
-From [http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei](http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei):
+Van [http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei](http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei):
 
-```
 Deelnemers van alle leeftijden zijn welkom om mee te doen 
 met dit kleurrijke experiment van Alessio Marcozzi. 
 Je leert hoe je echt DNA uit een aardbei kunt halen enkel en 
 alleen door het gebruik van zout, zeep en aardbeiensap. 
 Het experiment is eenvoudig en simpel, iedereen kan het. 
 En natuurlijk mag je je DNA na afloop meenemen.
-```
 
 ### THE HUMAN GENOME | A crash course
 
-From [http://maakfestival.nl/programma/the-human-genome-a-crash-course](http://maakfestival.nl/programma/the-human-genome-a-crash-course)
+Van [http://maakfestival.nl/programma/the-human-genome-a-crash-course](http://maakfestival.nl/programma/the-human-genome-a-crash-course)
 
-```
 In het jaar 200 werd de eerste versie van ‘The Human Genome’ gereleased. 
 Bijna twee decennia later weet nog steeds niemand wat het is…
 
@@ -76,4 +91,3 @@ During this workshop, you will learn the basics,
 where to get relevant information and how to surf it like you do with the internet.
 
 The course is in English and to participate to the interactive sessions you will need a tablet or a laptop.
-```
