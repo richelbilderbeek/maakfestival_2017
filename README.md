@@ -6,8 +6,8 @@ Activiteiten van De Jonge Onderzoekers, DIYbio en Hive5 op het [Maakfestival](ht
 
 Tijd|Waar|Activiteit|Wie
 ---|---|---|---
-12/19 Mei ?18:00-20:00|?DJO N&T|Oefenen DIY-DNA|?Peter, kinderen
-12/19 Mei ?19:00-21:00|?DJO N&T|Oefenen DIY-DNA|?Alessio, scholieren
+12/19 Mei ?18:00-20:00|?DJO N&T|?Oefenen DIY-DNA|?Peter, kinderen 
+12/19 Mei ?19:00-21:00|?DJO N&T|?Oefenen DIY-Genome|?Alessio, scholieren
 19 Mei 18:00-22:00|DJO en Maakfestival|Opbouw maakfestival|Richel, ?Arduino en N&T leerlingen
 20 Mei 8:00-10:00|DJO en Maakfestival|Opbouw maakfestival|- (liever niet)
 20 Mei 10:00-17:00|Maakfestival|Arduino|Thijs, leerlingen
@@ -39,6 +39,10 @@ Arduino|Leer electronica en Arduino van DJO leerlingen
 N&T en DIYbio|?Leer hoe je een DNA extractie doet van DJO leerlingen
 DIYbio|DNA extractie (zie hierboen) en ?Ensembl
 Hive5|?Show and tell
+
+## Spullen
+
+ * Whiteboard (Alessio)
 
 ## Publiciteit
 
