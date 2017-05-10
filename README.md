@@ -2,6 +2,11 @@
 
 Activiteiten van De Jonge Onderzoekers, DIYbio en Hive5 op het [Maakfestival](https://www.maakfestival.nl)
 
+20 Mei 10:00-17:00
+Maakfestival, Oude Boteringestraat 18 (Openbare bieb), Groningen
+
+![De locatie](locatie.png)
+
 ## Agenda
 
 Tijd|Waar|Activiteit|Wie
