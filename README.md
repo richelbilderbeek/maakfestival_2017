@@ -1,5 +1,7 @@
 # maakfestival 2017
 
+![Foto van Raymond Hendriks](maakfestival_2017_1.jpg)
+
 Activiteiten van De Jonge Onderzoekers, DIYbio en Hive5 op het [Maakfestival](https://www.maakfestival.nl)
 
 20 Mei 10:00-17:00
