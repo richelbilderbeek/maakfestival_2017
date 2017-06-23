@@ -1,13 +1,13 @@
 # maakfestival 2017
 
-![Foto van Raymond Hendriks](maakfestival_2017_1.jpg)
-
 Activiteiten van De Jonge Onderzoekers, DIYbio en Hive5 op het [Maakfestival](https://www.maakfestival.nl)
 
 20 Mei 10:00-17:00
 Maakfestival, Oude Boteringestraat 18 (Openbare bieb), Groningen
 
-![De locatie](locatie.png)
+![Foto van Raymond Hendriks](maakfestival_2017_1.jpg)
+
+![Foto van Raymond Hendriks](maakfestival_2017_2.jpg)
 
 ## Agenda
 
@@ -102,3 +102,6 @@ During this workshop, you will learn the basics,
 where to get relevant information and how to surf it like you do with the internet.
 
 The course is in English and to participate to the interactive sessions you will need a tablet or a laptop.
+
+## Locatie 
+![De locatie](locatie.png)
